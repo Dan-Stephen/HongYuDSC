@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="renderer" content="webkit">
+    <meta name="author" content="鸿宇科技 www.hongyuvip.com"/>
+    <title><?php echo APP_CHINESE_NAME ?> - 欢迎使用 - 鸿宇科技 www.hongyuvip.com</title>
+    <!-- Bootstrap -->
+    <link href="static/css/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="static/css/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="static/css/installer/installer.css" rel="stylesheet" />
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="http://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="http://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<div class="header text-center">
+    <h1>
+        <a href="<?php echo APP_SHOP_URL ?>" class="logo" target="_blank">
+            <?php echo APP_CHINESE_NAME ?>
+        </a>
+    </h1>
+    <ol class="step">
+        <li class="current"><span>1</span> 欢迎使用</li>
+        <li><span>2</span>环境检测</li>
+        <li><span>3</span>初始化配置</li>
+        <li><span>4</span>管理员配置</li>
+        <li><span>5</span>安装成功</li>
+    </ol>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+            <h3>免责协议
+                <small class="pull-right hidden-xs">
+                    <?php echo APP_NAME ?>&nbsp;
+                    <?php echo APP_VERSION ?>&nbsp;
+                    <?php echo APP_DESCRIBE ?>&nbsp;
+                    <?php echo APP_UPDATE_TIME ?>
+                    <a href="http://www.fuwuweb.com/article/88" target="_blank">安装教程</a>
+                </small>
+            </h3>
+            <div class="box">
+                <div class="box-body">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="license" style="height: 500px;overflow:scroll;">
+                                <div class="license-content">
+                                    <?php include ("views/license.html"); ?>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="box-footer text-center mt-30">
+                <a class="btn btn-success btn-lg" href="requirement.php">同意以上协议并安装</a>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<?php include ("views/footer.html"); ?>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="static/js/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="static/css/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript"></script>
+</body>
+</html>

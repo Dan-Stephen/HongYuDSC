@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="鸿宇科技 www.hongyuvip.com"/>
+    <title><?php echo APP_CHINESE_NAME ?> - 鸿宇科技 www.hongyuvip.com</title>
+    <!-- Bootstrap -->
+    <link href="static/css/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="static/css/bootstrap/css/bootstrapValidator.min.css" rel="stylesheet"/>
+    <link href="static/css/font-awesome/css/font-awesome.min.css" rel="stylesheet"/>
+    <link href="static/css/installer/installer.css" rel="stylesheet"/>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="http://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="http://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<div class="header text-center">
+    <h1>
+        <a href="<?php echo APP_SHOP_URL ?>" class="logo" target="_blank">
+            <?php echo APP_CHINESE_NAME ?>
+        </a>
+    </h1>
+    <ol class="step">
+        <li><span>1</span> 欢迎使用</li>
+        <li><span>2</span>环境检测</li>
+        <li><span>3</span>初始化配置</li>
+        <li class="current"><span>4</span>管理员配置</li>
+        <li><span>5</span>安装成功</li>
+    </ol>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+            <div class="alert mt-10  alert-danger hidden" role="alert" id="alert_message"></div>
+            <form role="form" method="POST" id="configForm" action="website.php">
+                <h3 class="box-title">创建您的管理员帐号</h3>
+                <div class="box">
+                    <div class="box-body">
+                        <div class="form-group">
+                            <label for="website_name">网站名称</label>
+                            <input type="text" class="form-control" name="website_name" id="website_name" value="鸿宇商城">
+                        </div>
+                        <div class="form-group ">
+                            <label for="website_title">网站标题</label>
+                            <input type="text" class="form-control" name="website_title" id="website_title" value="鸿宇商城 - 全新起航，从心出发">
+                        </div>
+                        <div class="form-group ">
+                            <label for="website_admin_name">管理员用户名</label>
+                            <input type="text" class="form-control" name="website_admin_name" id="website_admin_name" value="admin">
+                        </div>
+                        <div class="form-group ">
+                            <label for="website_admin_email">管理员邮箱</label>
+                            <input type="text" class="form-control" name="website_admin_email" id="website_admin_email" value="admin@hongyuvip.com">
+                        </div>
+                        <div class="form-group ">
+                            <label for="website_admin_pass">管理员登录密码</label>
+                            <input type="password" class="form-control" name="website_admin_pass" id="website_admin_pass" value="">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box-footer text-center mt-10 mb-10">
+                    <button type="submit" class="btn btn-success btn-lg" id="setup">下一步</button>
+                    <a class="btn btn-default btn-lg" href="http://test.hongyuvip.com/install/config">上一步</a>
+                </div>
+            </form>
+
+            <div class="modal fade" id="setup_modal">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <h3 class="text-center">
+                                <i class="fa fa-spinner fa-spin fa-fw"></i>
+                                <span>正在导入配置，请勿进行任何操作或刷新浏览器...</span>
+                            </h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<?php include ("views/footer.html"); ?>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="static/js/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="static/css/bootstrap/js/bootstrap.min.js"></script>
+<script src="static/css/bootstrap/js/bootstrapValidator.min.js"></script>
+<script type="text/javascript">
+    $('#configForm').bootstrapValidator({
+        message: '这个值没有被验证',
+        feedbackIcons: {
+            valid: 'glyphicon glyphicon-ok',
+            invalid: 'glyphicon glyphicon-remove',
+            validating: 'glyphicon glyphicon-refresh'
+        },
+        fields: {
+            website_name: {
+                validators: {
+                    notEmpty: {
+                        message: '网站名称是必填项'
+                    }
+                }
+            },
+            website_url: {
+                validators: {
+                    notEmpty: {
+                        message: '网站标题是必填项'
+                    }
+                }
+            },
+            website_admin_name: {
+                validators: {
+                    notEmpty: {
+                        message: '管理员用户名是必填项'
+                    }
+                }
+            },
+            website_admin_email: {
+                validators: {
+                    notEmpty: {
+                        message: '管理员邮箱是必填项'
+                    },
+                    emailAddress: {
+                        message: '请输入有效的管理员邮箱地址'
+                    }
+                }
+            },
+            website_admin_pass: {
+                validators: {
+                    notEmpty: {
+                        message: '管理员登录密码是必填项'
+                    },
+                    stringLength: {
+                        min: 6,
+                        message: '密码长度不能小余6个字符'
+                    }
+                }
+            }
+        }
+    }).on('success.form.bv', function (e) {
+        // Prevent form submission
+        e.preventDefault();
+        // Get the form instance
+        var $form = $(e.target);
+        // Get the BootstrapValidator instance
+        var bv = $form.data('bootstrapValidator');
+        $("#setup_modal").modal('show');
+        $('#alert_message').addClass('hidden');
+        // Use Ajax to submit form data
+        $.post("website.php", $form.serialize(), function (data) {
+            //console.log(data);
+            var result = JSON.parse(data);
+            if (result.status === true) {
+                //console.log('配置成功');
+                $("#setup_modal").modal('hide');
+                window.location.href = "finished.php";
+            } else if (result.status === false) {
+                $("#setup_modal").modal('hide');
+                //console.log('配置失败');
+                $('#alert_message').removeClass('hidden').text(result.errors + '请刷新浏览器重试！');
+            } else {
+                $('#alert_message').removeClass('hidden').text('未知错误！');
+            }
+        });
+    });
+</script>
+</body>
+</html>

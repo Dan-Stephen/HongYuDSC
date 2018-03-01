@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="csrf-token" content="ozCPJsoaswxWPvd2Zu08ZoKmP2nAK8FepW7IOL6X">
+    <meta name="author" content="Tipask Team" />
+    <meta name="copyright" content="2016 tipask.com" />
+    <title><?php echo APP_CHINESE_NAME ?> - 鸿宇科技 www.hongyuvip.com</title>
+    <!-- Bootstrap -->
+    <link href="static/css/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="static/css/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="static/css/installer/installer.css" rel="stylesheet" />
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="http://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="http://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<div class="header text-center">
+    <h1>
+        <a href="<?php echo APP_SHOP_URL ?>" class="logo" target="_blank">
+            <?php echo APP_CHINESE_NAME ?>
+        </a>
+    </h1>
+    <ol class="step">
+        <li><span>1</span> 欢迎使用</li>
+        <li><span>2</span>环境检测</li>
+        <li><span>3</span>初始化配置</li>
+        <li><span>4</span>管理员配置</li>
+        <li class="current"><span>5</span>安装成功</li>
+    </ol>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+            <div class="box mt-30">
+                <div class="box-body">
+                    <div class="text-center" style="margin-bottom: 20px;">
+                        <h3 class="text-success"><i class="fa fa-smile-o"></i> 恭喜，安装成功！</h3>
+                        <p class="mt-10" style="margin: 20px auto;">希望鸿宇系统能帮您走向成功！</p>
+                        <p class="mt-10" style="margin: 20px auto;">堂堂正正做人，踏踏实实做事。</p>
+                        <p class="mt-10" style="margin: 20px auto;">遇到问题请前往 <a href="<?php echo APP_COMMUNITY_URL ?>" target="_blank">鸿宇社区</a>，进行提问或查找解决方案。</p>
+                        <div class="alert alert-info" role="alert">
+                            <strong>特别提醒：</strong> 记得进入后台，单击右上角清除缓存按钮（勾选 模板缓存和SESSION 后，点击清除按钮）
+                        </div>
+                        <a href="../admin/index.php" class="btn btn-success">访问网站后台</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<?php include ("views/footer.html"); ?>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="static/js/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="static/css/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript"></script>
+</body>
+</html>
