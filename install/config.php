@@ -86,7 +86,6 @@ if (is_post()) {
         if (!empty($is_force) && $is_force == true) {
             $drop_sql = "drop database if exists " . $database_name;
             $connent->query($drop_sql);
-
             $create_db_sql = "create database " . $database_name;
             if ($connent->query($create_db_sql) == true) {
                 /*$result = [
@@ -95,7 +94,7 @@ if (is_post()) {
                     'message' => $database_name . "数据库创建成功",
                 ];
                 exit(json_encode($result, JSON_UNESCAPED_UNICODE));*/
-                //$connent->close();  // 关闭连接
+                $connent->close();  // 关闭连接
                 install($database_host, $database_username, $database_password, $database_name);
             } else {
                 $result = [
@@ -106,6 +105,7 @@ if (is_post()) {
                 exit(json_encode($result, JSON_UNESCAPED_UNICODE));
             }
         } else {
+            $connent->close();  // 关闭连接
             $result = [
                 'status' => false,
                 'code' => '2',  // 数据库已存在
@@ -113,27 +113,28 @@ if (is_post()) {
             ];
             exit(json_encode($result, JSON_UNESCAPED_UNICODE));
         }
-    }
-
-    //创建数据库
-    $create_db_sql = "create database " . $database_name;
-    //$create_result = $connent->query($check_db_sql);
-    if ($connent->query($create_db_sql) == true) {
-        /*$result = [
-            'status' => true,
-            'code' => '0',  // 数据库创建成功
-            'message' => $database_name . "数据库创建成功",
-        ];
-        exit(json_encode($result, JSON_UNESCAPED_UNICODE));*/
-        //$connent->close();  // 关闭连接
-        install($database_host, $database_username, $database_password, $database_name);
     } else {
-        $result = [
-            'status' => false,
-            'code' => '3',  // 数据库创建失败
-            'message' => "数据库创建失败：" . $connent->error,
-        ];
-        exit(json_encode($result, JSON_UNESCAPED_UNICODE));
+        //创建数据库
+        $create_db_sql = "create database " . $database_name;
+        //$create_result = $connent->query($check_db_sql);
+        if ($connent->query($create_db_sql) == true) {
+            /*$result = [
+                'status' => true,
+                'code' => '0',  // 数据库创建成功
+                'message' => $database_name . "数据库创建成功",
+            ];
+            exit(json_encode($result, JSON_UNESCAPED_UNICODE));*/
+            $connent->close();  // 关闭连接
+            install($database_host, $database_username, $database_password, $database_name);
+        } else {
+            $connent->close();  // 关闭连接
+            $result = [
+                'status' => false,
+                'code' => '3',  // 数据库创建失败
+                'message' => "数据库创建失败：" . $connent->error,
+            ];
+            exit(json_encode($result, JSON_UNESCAPED_UNICODE));
+        }
     }
 
 } else {
