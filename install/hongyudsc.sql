@@ -22672,7 +22672,7 @@ INSERT INTO `dsc_shop_config` VALUES ('111', '1', 'skype', 'hidden', '', '', '',
 INSERT INTO `dsc_shop_config` VALUES ('112', '1', 'ym', 'hidden', '', '', '', '1', '');
 INSERT INTO `dsc_shop_config` VALUES ('113', '1', 'msn', 'hidden', '', '', '', '1', '');
 INSERT INTO `dsc_shop_config` VALUES ('114', '1', 'service_email', 'text', '', '', 'admin@hongyuvip.com', '1', '');
-INSERT INTO `dsc_shop_config` VALUES ('115', '1', 'service_phone', 'text', '', '', '123456789', '1', '');
+INSERT INTO `dsc_shop_config` VALUES ('115', '1', 'service_phone', 'text', '', '', '400-000-0000', '1', '');
 INSERT INTO `dsc_shop_config` VALUES ('116', '1', 'shop_closed', 'select', '0,1', '', '0', '1', '');
 INSERT INTO `dsc_shop_config` VALUES ('117', '1', 'close_comment', 'textarea', '', '', '', '1', '');
 INSERT INTO `dsc_shop_config` VALUES ('118', '1', 'shop_logo', 'file', '', '../themes/{$template}/images/', '../themes/ecmoban_sc3.0/images/logo.gif', '1', '');
