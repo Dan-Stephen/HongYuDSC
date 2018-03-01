@@ -1291,7 +1291,7 @@ CREATE TABLE `dsc_alitongxin_configure` (
 -- ----------------------------
 -- Records of dsc_alitongxin_configure
 -- ----------------------------
-INSERT INTO `dsc_alitongxin_configure` VALUES ('1', '123', '验证码${code}，您正在注册成为${product}用户，感谢您的支持！', '1509000367', '213', 'sms_signin', '0');
+INSERT INTO `dsc_alitongxin_configure` VALUES ('1', 'SMS_00000000', '验证码${code}，您正在注册成为${product}用户，感谢您的支持！', '1509000367', '鸿宇科技', 'sms_signin', '0');
 
 -- ----------------------------
 -- Table structure for `dsc_appeal_img`
@@ -22780,13 +22780,13 @@ INSERT INTO `dsc_shop_config` VALUES ('425', '4', 'send_service_email', 'select'
 INSERT INTO `dsc_shop_config` VALUES ('426', '4', 'show_goods_in_cart', 'hidden', '1,2,3', '', '3', '1', '');
 INSERT INTO `dsc_shop_config` VALUES ('427', '4', 'show_attr_in_cart', 'hidden', '1,0', '', '1', '1', '');
 INSERT INTO `dsc_shop_config` VALUES ('501', '5', 'smtp_host', 'text', '', '', 'smtp.qq.com', '1', '');
-INSERT INTO `dsc_shop_config` VALUES ('502', '5', 'smtp_port', 'text', '', '', '25', '1', '');
+INSERT INTO `dsc_shop_config` VALUES ('502', '5', 'smtp_port', 'text', '', '', '465', '1', '');
 INSERT INTO `dsc_shop_config` VALUES ('503', '5', 'smtp_user', 'text', '', '', '', '1', '');
 INSERT INTO `dsc_shop_config` VALUES ('504', '5', 'smtp_pass', 'password', '', '', '', '1', '');
 INSERT INTO `dsc_shop_config` VALUES ('505', '5', 'smtp_mail', 'text', '', '', '', '1', '');
 INSERT INTO `dsc_shop_config` VALUES ('506', '5', 'mail_charset', 'select', 'UTF8,GB2312,BIG5', '', 'UTF8', '1', '');
 INSERT INTO `dsc_shop_config` VALUES ('507', '5', 'mail_service', 'select', '0,1', '', '1', '0', '');
-INSERT INTO `dsc_shop_config` VALUES ('508', '5', 'smtp_ssl', 'select', '0,1', '', '0', '0', '');
+INSERT INTO `dsc_shop_config` VALUES ('508', '5', 'smtp_ssl', 'select', '0,1', '', '1', '0', '');
 INSERT INTO `dsc_shop_config` VALUES ('601', '6', 'integrate_code', 'hidden', '', '', 'ecshop', '1', '');
 INSERT INTO `dsc_shop_config` VALUES ('602', '6', 'integrate_config', 'hidden', '', '', '', '1', '');
 INSERT INTO `dsc_shop_config` VALUES ('603', '6', 'hash_code', 'hidden', '', '', 'b76989c756aab2c64cf941eb31dec09c', '1', '');
@@ -22816,7 +22816,7 @@ INSERT INTO `dsc_shop_config` VALUES ('704', '996', 'show_goodsnumber', 'select'
 INSERT INTO `dsc_shop_config` VALUES ('705', '996', 'show_addtime', 'select', '1,0', '', '1', '1', 'goods');
 INSERT INTO `dsc_shop_config` VALUES ('706', '996', 'goodsattr_style', 'hidden', '1,0', '', '1', '1', 'goods');
 INSERT INTO `dsc_shop_config` VALUES ('707', '996', 'show_marketprice', 'select', '1,0', '', '1', '1', 'goods');
-INSERT INTO `dsc_shop_config` VALUES ('801', '8', 'sms_shop_mobile', 'text', '', '', '234', '3', 'sms');
+INSERT INTO `dsc_shop_config` VALUES ('801', '8', 'sms_shop_mobile', 'text', '', '', '', '3', 'sms');
 INSERT INTO `dsc_shop_config` VALUES ('802', '8', 'sms_order_placed', 'select', '1,0', '', '0', '11', 'sms');
 INSERT INTO `dsc_shop_config` VALUES ('803', '8', 'sms_order_payed', 'select', '1,0', '', '0', '12', 'sms');
 INSERT INTO `dsc_shop_config` VALUES ('804', '8', 'sms_order_shipped', 'select', '1,0', '', '0', '13', 'sms');
@@ -22863,8 +22863,8 @@ INSERT INTO `dsc_shop_config` VALUES ('944', '942', 'open_memcached', 'hidden', 
 INSERT INTO `dsc_shop_config` VALUES ('945', '942', 'ad_reminder', 'select', '0,1', '', '1', '1', '');
 INSERT INTO `dsc_shop_config` VALUES ('946', '8', 'sms_seller_signin', 'select', '1,0', '', '0', '16', 'sms');
 INSERT INTO `dsc_shop_config` VALUES ('947', '8', 'sms_type', 'select', '0,1,2,3', '', '1', '2', 'sms');
-INSERT INTO `dsc_shop_config` VALUES ('948', '8', 'ali_appkey', 'text', '', '', '234', '7', 'sms');
-INSERT INTO `dsc_shop_config` VALUES ('949', '8', 'ali_secretkey', 'text', '', '', '234', '8', 'sms');
+INSERT INTO `dsc_shop_config` VALUES ('948', '8', 'ali_appkey', 'text', '', '', '', '7', 'sms');
+INSERT INTO `dsc_shop_config` VALUES ('949', '8', 'ali_secretkey', 'text', '', '', '', '8', 'sms');
 INSERT INTO `dsc_shop_config` VALUES ('950', '997', 'exchange_size', 'text', '', '', '21', '1', 'goods');
 INSERT INTO `dsc_shop_config` VALUES ('951', '942', 'site_domain', 'text', '', '', '', '1', '');
 INSERT INTO `dsc_shop_config` VALUES ('952', '942', 'server_model', 'hidden', '0,1', '', '0', '1', '');

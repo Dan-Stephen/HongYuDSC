@@ -88,6 +88,7 @@ if (is_post()) {
             $connent->query($drop_sql);
             $create_db_sql = "create database " . $database_name;
             if ($connent->query($create_db_sql) == true) {
+                $connent->close();  // 关闭连接
                 install($database_host, $database_username, $database_password, $database_name);
             } else {
                 $result = [
@@ -110,6 +111,7 @@ if (is_post()) {
         $create_db_sql = "create database " . $database_name;
         //$create_result = $connent->query($check_db_sql);
         if ($connent->query($create_db_sql) == true) {
+            $connent->close();  // 关闭连接
             install($database_host, $database_username, $database_password, $database_name);
         } else {
             $result = [
@@ -120,7 +122,6 @@ if (is_post()) {
             exit(json_encode($result, JSON_UNESCAPED_UNICODE));
         }
     }
-    //$connent->close();  // 关闭连接
 } else {
     include("views/config.html");
 }
