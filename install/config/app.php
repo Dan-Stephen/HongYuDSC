@@ -5,7 +5,7 @@ date_default_timezone_set('Asia/Shanghai'); // 设置时区
 error_reporting(0); // 不显示所有提示  7-只显示严重错误提示 255-显示所有提示
 
 define('APP_NAME', 'HongYuDSC');
-define('APP_VERSION', 'V8.0.12');
+define('APP_VERSION', 'V8.0.16');
 define('APP_UPDATE_TIME', '2018-03-01');
 define('APP_CHINESE_NAME', '鸿宇大商创');
 define('APP_DESCRIBE', '运营安装版');
