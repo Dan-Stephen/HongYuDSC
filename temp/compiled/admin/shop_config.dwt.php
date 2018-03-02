@@ -25,13 +25,13 @@ if ($this->_foreach['bar_group']['total'] > 0):
                     <div class="view-case">
                     	<div class="view-case-tit"><i></i><?php echo $this->_var['lang']['view_tutorials']; ?></div>
                         <div class="view-case-info">
-                        	<a href="http://help.ecmoban.com/article-6273.html" target="_blank">商店设置---平台基本信息设置</a>
-                            <a href="http://help.ecmoban.com/article-6274.html" target="_blank">商店设置---客服设置</a>
-                            <a href="http://help.ecmoban.com/article-6268.html" target="_blank">商店设置---市场价格比例及积分比例设置</a>
-                            <a href="http://help.ecmoban.com/article-6271.html" target="_blank">商店设置---设置区分地区商品</a>
-                            <a href="http://help.ecmoban.com/article-6266.html" target="_blank">商店设置---短信设置</a>
-                            <a href="http://help.ecmoban.com/article-6267.html" target="_blank">商店设置---WAP设置</a>
-                            <a href="http://help.ecmoban.com/article-6265.html" target="_blank">商店设置---商品属性价格模式设置</a>
+                        	<a href="http://help.hongyuvip.com/article-6273.html" target="_blank">商店设置---平台基本信息设置</a>
+                            <a href="http://help.hongyuvip.com/article-6274.html" target="_blank">商店设置---客服设置</a>
+                            <a href="http://help.hongyuvip.com/article-6268.html" target="_blank">商店设置---市场价格比例及积分比例设置</a>
+                            <a href="http://help.hongyuvip.com/article-6271.html" target="_blank">商店设置---设置区分地区商品</a>
+                            <a href="http://help.hongyuvip.com/article-6266.html" target="_blank">商店设置---短信设置</a>
+                            <a href="http://help.hongyuvip.com/article-6267.html" target="_blank">商店设置---WAP设置</a>
+                            <a href="http://help.hongyuvip.com/article-6265.html" target="_blank">商店设置---商品属性价格模式设置</a>
                         </div>
                     </div>
                     <?php endif; ?>

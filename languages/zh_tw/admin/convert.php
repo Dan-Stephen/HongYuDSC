@@ -4,7 +4,7 @@ $_LANG['confirm_convert'] = '注意：執行轉換程序將會使現有數據丟
 $_LANG['backup_data'] = '如果現有數據對您可能還有價值，請您先做好備份。';
 $_LANG['backup'] = '現在就去備份';
 $_LANG['select_system'] = '請選擇您要轉換的系統：';
-$_LANG['note_select_system'] = '（如果您的系統不在左邊的列表中，您可以到<a href="http://www.ecmoban.com" target="_blank"><strong>我們的網站</strong></a>尋求幫助）';
+$_LANG['note_select_system'] = '（如果您的系統不在左邊的列表中，您可以到<a href="http://www.hongyuvip.com" target="_blank"><strong>我們的網站</strong></a>尋求幫助）';
 $_LANG['select_charset'] = '請選擇您要轉換的系統使用的字符集：';
 $_LANG['note_select_charset'] = '（如果你的系統使用的不是 UTF-8 字符集，轉換可能需要較長時間）';
 $_LANG['dir_notes'] = '請注意原商城的根目錄路徑請使用相對於admin目錄的路徑。<br />例如：原商城的目錄在根目錄下的shop，而ecshop放在根目錄下，則該路徑為 ../shop';

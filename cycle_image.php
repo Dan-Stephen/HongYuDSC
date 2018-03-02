@@ -14,7 +14,7 @@ if (file_exists(ROOT_PATH . DATA_DIR . '/cycle_image.xml')) {
 	echo file_get_contents(ROOT_PATH . DATA_DIR . '/cycle_image.xml');
 }
 else {
-	echo '<?xml version="1.0" encoding="' . EC_CHARSET . '"?><bcaster><item item_url="images/200609/05.jpg" link="http://www.ecmoban.com" /></bcaster>';
+	echo '<?xml version="1.0" encoding="' . EC_CHARSET . '"?><bcaster><item item_url="images/200609/05.jpg" link="http://www.hongyuvip.com" /></bcaster>';
 }
 
 ?>

@@ -471,7 +471,7 @@ $_LANG['email_checked'] = 'Email has been checked!';
 $_LANG['hash_wrong'] = 'Hash wrong! Recheck the hash and enter email address to send hash again!';
 $_LANG['email_canceled'] = 'Email is canceled!';
 $_LANG['goods_click_count'] = 'Goods click count';
-$_LANG['p_y']['link_start'] = '<a href="http://www.ecmoban.com" target="_blank" style=" font-family:Verdana; font-size:11px;">';
+$_LANG['p_y']['link_start'] = '<a href="http://www.hongyuvip.com" target="_blank" style=" font-family:Verdana; font-size:11px;">';
 $_LANG['p_y']['link_p'] = 'Powe';
 $_LANG['p_y']['link_r'] = 'red&nbsp;';
 $_LANG['p_y']['link_b'] = 'by&nbsp;';

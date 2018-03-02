@@ -13,7 +13,7 @@ class SendController extends \App\Modules\Site\Controllers\IndexController
 			exit($res);
 		}
 
-		$res = send_mail('xxx', 'wanglin@ecmoban.com', 'title', 'content');
+		$res = send_mail('xxx', 'wanglin@hongyuvip.com', 'title', 'content');
 
 		if ($res !== true) {
 			exit($res);

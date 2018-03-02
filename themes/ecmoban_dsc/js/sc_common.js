@@ -804,7 +804,7 @@ $(function(){
 	$(document).ready(function(e) {
         var bodylayer = $("body");
 		var div = $("<div class='support'></div>")
-			.append("<p><a href='http://dsc.ecmoban.com/' target='_blank' style='color:#666;'>Powered by <span style='color:#ec5051'>鸿宇大商创1.0</span></a></p>");
+			.append("<p><a href='http://dsc.hongyuvip.com/' target='_blank' style='color:#666;'>Powered by <span style='color:#ec5051'>鸿宇大商创1.0</span></a></p>");
 		bodylayer.append(div);
 		
 		bodylayer.css('cssText', 'position: relative !important;');

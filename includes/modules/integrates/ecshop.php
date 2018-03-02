@@ -10,7 +10,7 @@ if (isset($set_modules) && $set_modules == true) {
 	$modules[$i]['name'] = 'ECSHOP';
 	$modules[$i]['version'] = '2.0';
 	$modules[$i]['author'] = 'ECMOBAN R&D TEAM';
-	$modules[$i]['website'] = 'http://www.ecmoban.com';
+	$modules[$i]['website'] = 'http://www.hongyuvip.com';
 	return NULL;
 }
 

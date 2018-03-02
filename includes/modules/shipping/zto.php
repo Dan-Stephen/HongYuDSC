@@ -72,7 +72,7 @@ if (isset($set_modules) && $set_modules == true) {
 	$modules[$i]['insure'] = '2%';
 	$modules[$i]['cod'] = false;
 	$modules[$i]['author'] = '蓝色黯然';
-	$modules[$i]['website'] = 'http://www.ecmoban.com';
+	$modules[$i]['website'] = 'http://www.hongyuvip.com';
 	$modules[$i]['configure'] = array(
 	array('name' => 'item_fee', 'value' => 15),
 	array('name' => 'base_fee', 'value' => 10),

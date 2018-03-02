@@ -16,7 +16,7 @@ if (isset($set_modules) && ($set_modules == true)) {
 	$modules[$i]['code'] = basename(__FILE__, '.php');
 	$modules[$i]['desc'] = 'auto_manage_desc';
 	$modules[$i]['author'] = 'ECSHOP TEAM';
-	$modules[$i]['website'] = 'http://www.ecmoban.com';
+	$modules[$i]['website'] = 'http://www.hongyuvip.com';
 	$modules[$i]['version'] = '1.0.0';
 	$modules[$i]['config'] = array(
 	array('name' => 'auto_manage_count', 'type' => 'select', 'value' => '5')

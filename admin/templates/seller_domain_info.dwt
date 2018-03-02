@@ -37,7 +37,7 @@
                                         <div class="label">{$lang.site_name}：</div>
                                         <div class="label_value">
 											<input type="text" name="domain_name" id="domain_name" class="text" value="{$domian.domain_name}" autocomplete="off" />
-											<label class="blue_label">（例如：http://apple.ecmoban.com）</label>
+											<label class="blue_label">（例如：http://apple.hongyuvip.com）</label>
 										</div>
                                     </div>
                                     <div class="item">

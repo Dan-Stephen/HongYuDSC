@@ -1,12 +1,12 @@
 imgUrl1="data/afficheimg/20140121tpclwh.jpg";
 imgtext1="";
-imgLink1=escape("http://www.ecmoban.com");
+imgLink1=escape("http://www.hongyuvip.com");
 imgUrl2="data/afficheimg/20140121tiskvu.jpg";
 imgtext2="";
-imgLink2=escape("http://www.ecmoban.com");
+imgLink2=escape("http://www.hongyuvip.com");
 imgUrl3="data/afficheimg/20140121gmlyoj.jpg";
 imgtext3="";
-imgLink3=escape("http://www.ecmoban.com");
+imgLink3=escape("http://www.hongyuvip.com");
 
 var pics=imgUrl1+"|"+imgUrl2+"|"+imgUrl3;
 var links=imgLink1+"|"+imgLink2+"|"+imgLink3;

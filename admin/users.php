@@ -666,7 +666,7 @@ else if ($_REQUEST['act'] == 'main_user') {
 		$shop_url = urlencode($ecs->url());
 		$httpData = array('domain' => $ecs->get_domain(), 'url' => urldecode($shop_url), 'ver' => $ecs_version, 'lang' => $ecs_lang, 'release' => $ecs_release, 'php_ver' => $php_ver, 'mysql_ver' => $mysql_ver, 'ocount' => $ocount, 'oamount' => $oamount, 'gcount' => $gcount, 'scount' => $scount, 'charset' => $ecs_charset, 'usecount' => $ecs_user, 'template' => $ecs_template, 'style' => $ecs_style);
 		$Http = new Http();
-		$Http->doPost('http://ecshop.ecmoban.com/dsc_checkver.php', $httpData);
+		$Http->doPost('http://ecshop.hongyuvip.com/dsc_checkver.php', $httpData);
 		write_static_cache('main_user_str', $httpData);
 	}
 }

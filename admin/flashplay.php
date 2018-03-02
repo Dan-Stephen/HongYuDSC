@@ -130,7 +130,7 @@ function set_flash_data($tplname, &$msg)
 	$flashdata = get_flash_xml();
 
 	if (empty($flashdata)) {
-		$flashdata[] = array('src' => 'data/afficheimg/20081027angsif.jpg', 'text' => 'ECShop', 'url' => 'http://www.ecmoban.com');
+		$flashdata[] = array('src' => 'data/afficheimg/20081027angsif.jpg', 'text' => 'ECShop', 'url' => 'http://www.hongyuvip.com');
 		$flashdata[] = array('src' => 'data/afficheimg/20081027wdwd.jpg', 'text' => 'wdwd', 'url' => 'http://www.wdwd.com');
 		$flashdata[] = array('src' => 'data/afficheimg/20081027xuorxj.jpg', 'text' => 'ECShop', 'url' => 'http://help.ecshop.com/index.php?doc-view-108.htm');
 	}

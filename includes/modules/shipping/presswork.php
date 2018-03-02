@@ -67,7 +67,7 @@ if (isset($set_modules) && ($set_modules == true)) {
 	$modules[$i]['insure'] = '1%';
 	$modules[$i]['cod'] = false;
 	$modules[$i]['author'] = 'ECMOBAN TEAM';
-	$modules[$i]['website'] = 'http://www.ecmoban.com';
+	$modules[$i]['website'] = 'http://www.hongyuvip.com';
 	$modules[$i]['configure'] = array();
 	$modules[$i]['print_model'] = 2;
 	$modules[$i]['print_bg'] = '';

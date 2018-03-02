@@ -12,7 +12,7 @@ if (defined('WEBSITE') || defined('GETINFO')) {
 	$web[$i]['className'] = 'qq';
 	$web[$i]['author'] = '`Dream`';
 	$web[$i]['qq'] = '0000210';
-	$web[$i]['email'] = '0000210@ecmoban.com';
+	$web[$i]['email'] = '0000210@hongyuvip.com';
 	$web[$i]['website'] = 'http://connect.qq.com/';
 	$web[$i]['version'] = '2.7v';
 	$web[$i]['date'] = '2013-11-5';

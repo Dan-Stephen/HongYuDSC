@@ -14,7 +14,7 @@ if (defined('WEBSITE')) {
 	$web[$i]['author'] = '`Dream`';
 	$web[$i]['className'] = 'weibo';
 	$web[$i]['qq'] = '0000210';
-	$web[$i]['email'] = '0000210@ecmoban.com';
+	$web[$i]['email'] = '0000210@hongyuvip.com';
 	$web[$i]['website'] = 'http://open.weibo.com';
 	$web[$i]['version'] = '2.7v';
 	$web[$i]['date'] = '2013-11-5';

@@ -270,11 +270,11 @@
                                 </dl>
                                 <dl>
                                 	<dt>问答反馈：</dt>
-                                    <dd><a href="http://wenda.ecmoban.com" target="_blank">http://wenda.ecmoban.com</a></dd>
+                                    <dd><a href="http://wenda.hongyuvip.com" target="_blank">http://wenda.hongyuvip.com</a></dd>
                                 </dl>
                                 <dl>
                                 	<dt>官方网站：</dt>
-                                    <dd><a href="http://www.ecmoban.com" target="_blank">http://www.ecmoban.com</a></dd>
+                                    <dd><a href="http://www.hongyuvip.com" target="_blank">http://www.hongyuvip.com</a></dd>
                                 </dl>
                                 <dl>
                                 	<dt>鸿宇大商创官网：</dt>

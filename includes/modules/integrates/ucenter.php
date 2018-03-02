@@ -10,7 +10,7 @@ if (isset($set_modules) && $set_modules == true) {
 	$modules[$i]['name'] = 'UCenter';
 	$modules[$i]['version'] = '1.x';
 	$modules[$i]['author'] = 'ECMOBAN R&D TEAM';
-	$modules[$i]['website'] = 'http://www.ecmoban.com';
+	$modules[$i]['website'] = 'http://www.hongyuvip.com';
 	$modules[$i]['default']['db_host'] = 'localhost';
 	$modules[$i]['default']['db_user'] = 'root';
 	$modules[$i]['default']['prefix'] = 'uc_';

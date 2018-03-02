@@ -200,7 +200,7 @@ if (isset($set_modules) && $set_modules == true) {
 	$modules[$i]['className'] = 'weibo';
 	$modules[$i]['author'] = 'ECTouch';
 	$modules[$i]['qq'] = '800007167';
-	$modules[$i]['email'] = 'support@ecmoban.com';
+	$modules[$i]['email'] = 'support@hongyuvip.com';
 	$modules[$i]['website'] = 'http://open.weibo.com';
 	$modules[$i]['version'] = '1.0';
 	$modules[$i]['date'] = '2014-10-03';

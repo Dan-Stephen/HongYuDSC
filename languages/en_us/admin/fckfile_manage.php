@@ -22,6 +22,6 @@ $_LANG['go_list'] = 'Return list';
 $_LANG['ckdel'] = 'Determine the delete?';
 $_LANG['namecannotnull'] = 'Please enter the name of the navigation bar!';
 $_LANG['linkcannotnull'] = 'Please enter the link!';
-$_LANG['notice_url'] = 'If this site are the Web site may be the initials for the root directory of the relative address Shopping Mall，Such as index.php；<br>Other circumstances should enter the full URL, such as http://www.ecmoban.com/';
+$_LANG['notice_url'] = 'If this site are the Web site may be the initials for the root directory of the relative address Shopping Mall，Such as index.php；<br>Other circumstances should enter the full URL, such as http://www.hongyuvip.com/';
 
 ?>

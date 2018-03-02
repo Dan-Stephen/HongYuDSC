@@ -823,7 +823,7 @@ function goodsCollectionResponse(res){
                         
                         <p class="copyright_links">
                                     
-                                                    <a href="http://www.ecmoban.com" target="_blank" title="鸿宇">鸿宇</a>
+                                                    <a href="http://www.hongyuvip.com" target="_blank" title="鸿宇">鸿宇</a>
                      
                     <span class="spacer"></span>
                                                         <a href="http://www.ecjia.com" target="_blank" title="ECJia">ECJia</a>
@@ -832,7 +832,7 @@ function goodsCollectionResponse(res){
                                                         <a href="http://www.ectouch.cn" target="_blank" title="ECTouch">ECTouch</a>
                      
                     <span class="spacer"></span>
-                                                        <a href="http://help.ecmoban.com" target="_blank" title="电商学院">电商学院</a>
+                                                        <a href="http://help.hongyuvip.com" target="_blank" title="电商学院">电商学院</a>
                                                                 </p>
                         
                         <p><span>©&nbsp;2015-2019&nbsp;hongyuvip.com&nbsp;版权所有&nbsp;&nbsp;</span><span>ICP备案证书号:</span><a href="http://www.miibeian.gov.cn/" target="_blank">DSC00000123</a>&nbsp;POWERED by<a href="http://www.hongyuvip.com/" target="_blank">鸿宇大商创</a>2.0</p>

@@ -14,7 +14,7 @@
                         <div class="view-case">
                         <div class="view-case-tit"><i></i>{$lang.view_tutorials}</div>
                             <div class="view-case-info">
-                                <a href="http://help.ecmoban.com/article-6893.html" target="_blank">商城广告设置操作说明</a>
+                                <a href="http://help.hongyuvip.com/article-6893.html" target="_blank">商城广告设置操作说明</a>
                             </div>
                         </div>
                         {/if}

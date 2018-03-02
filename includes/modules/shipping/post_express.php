@@ -75,7 +75,7 @@ if (isset($set_modules) && ($set_modules == true)) {
 	$modules[$i]['insure'] = '1%';
 	$modules[$i]['cod'] = false;
 	$modules[$i]['author'] = 'ECMOBAN TEAM';
-	$modules[$i]['website'] = 'http://www.ecmoban.com';
+	$modules[$i]['website'] = 'http://www.hongyuvip.com';
 	$modules[$i]['configure'] = array(
 	array('name' => 'item_fee', 'value' => 5),
 	array('name' => 'base_fee', 'value' => 5),

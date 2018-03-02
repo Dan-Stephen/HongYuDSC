@@ -1218,7 +1218,7 @@ else if ($_REQUEST['act'] == 'main_api') {
 		$shop_url = urlencode($ecs->url());
 		$httpData = array('domain' => $ecs->get_domain(), 'url' => urldecode($shop_url), 'ver' => $ecs_version, 'lang' => $ecs_lang, 'release' => $ecs_release, 'php_ver' => $php_ver, 'mysql_ver' => $mysql_ver, 'ocount' => $ocount, 'oamount' => $oamount, 'gcount' => $gcount, 'charset' => $ecs_charset, 'usecount' => $ecs_user, 'template' => $ecs_template, 'style' => $ecs_style);
 		$Http = new Http();
-		$Http->doPost('http://ecshop.ecmoban.com/dsc_checkver.php', $httpData);
+		$Http->doPost('http://ecshop.hongyuvip.com/dsc_checkver.php', $httpData);
 		$f = ROOT_PATH . 'data/config.php';
 		write_static_file_cache('config', str_replace('\'API_TIME\', \'' . API_TIME . '\'', '\'API_TIME\', \'' . date('Y-m-d H:i:s', time()) . '\'', file_get_contents($f)), 'php', ROOT_PATH . 'data/');
 		write_static_cache('api_str', $httpData);

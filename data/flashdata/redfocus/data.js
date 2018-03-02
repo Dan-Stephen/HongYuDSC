@@ -1,6 +1,6 @@
 imgUrl1="data/afficheimg/20081027angsif.jpg";
 imgtext1="ECShop";
-imgLink1=escape("http://www.ecmoban.com");
+imgLink1=escape("http://www.hongyuvip.com");
 imgUrl2="data/afficheimg/20081027wdwd.jpg";
 imgtext2="WDWD";
 imgLink2=escape("http://www.wdwd.com");

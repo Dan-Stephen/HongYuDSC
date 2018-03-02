@@ -4,7 +4,7 @@
  * DSC 前台语言文件
  * ============================================================================
  * * 版权所有 2015-2019 鸿宇科技有限公司，并保留所有权利。
- * 网站地址: http://www.ecmoban.com；
+ * 网站地址: http://www.hongyuvip.com；
  * ----------------------------------------------------------------------------
  * 这不是一个自由软件！您只能在不用于商业目的的前提下对程序代码进行修改和
  * 使用；不允许对程序代码以任何形式任何目的的再发布。
@@ -762,7 +762,7 @@ $_LANG['email_checked'] = '邮件已经被确认！';
 $_LANG['hash_wrong'] = '验证串错误！请核对验证串或输入email地址重新发送验证串！';
 $_LANG['email_canceled'] = '邮件已经被退定！';
 $_LANG['goods_click_count'] = '商品点击数';
-$_LANG['p_y']['link_start'] = '<a href="http://www.ecmoban.com" target="_blank" style=" font-family:Verdana; font-size:11px;">';
+$_LANG['p_y']['link_start'] = '<a href="http://www.hongyuvip.com" target="_blank" style=" font-family:Verdana; font-size:11px;">';
 $_LANG['p_y']['link_p'] = 'Powe';
 $_LANG['p_y']['link_r'] = 'red&nbsp;';
 $_LANG['p_y']['link_b'] = 'by&nbsp;';

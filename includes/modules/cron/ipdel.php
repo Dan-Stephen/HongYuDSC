@@ -16,7 +16,7 @@ if (isset($set_modules) && ($set_modules == true)) {
 	$modules[$i]['code'] = basename(__FILE__, '.php');
 	$modules[$i]['desc'] = 'ipdel_desc';
 	$modules[$i]['author'] = 'ECSHOP TEAM';
-	$modules[$i]['website'] = 'http://www.ecmoban.com';
+	$modules[$i]['website'] = 'http://www.hongyuvip.com';
 	$modules[$i]['version'] = '1.0.0';
 	$modules[$i]['config'] = array(
 	array('name' => 'ipdel_day', 'type' => 'select', 'value' => '30')

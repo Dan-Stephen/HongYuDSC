@@ -4,7 +4,7 @@ $_LANG['confirm_convert'] = 'Attention: To convert program will lose the existin
 $_LANG['backup_data'] = 'If the existing data still has value probably to you, please backup first.';
 $_LANG['backup'] = 'Backup now.';
 $_LANG['select_system'] = 'Please choose the system that you want to convert:';
-$_LANG['note_select_system'] = '(If your system not in the list, you can arrive <a href="http://www.ecmoban.com" target="_ blank"> <strong> our website </strong></a>look for a help).';
+$_LANG['note_select_system'] = '(If your system not in the list, you can arrive <a href="http://www.hongyuvip.com" target="_ blank"> <strong> our website </strong></a>look for a help).';
 $_LANG['select_charset'] = 'Please choose the character list that the system that you have to convert use to gather:';
 $_LANG['note_select_charset'] = '(If your system isn\'t UTF-8 character, converting need a long time.)';
 $_LANG['dir_notes'] = 'Please notice root directory path of the old shop, please use opposite path of the admin directory.<Br/>For example:The old shop directory is shop in root directory, but the ecshop put in root directory, that path is../shop.';

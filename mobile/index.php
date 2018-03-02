@@ -4,7 +4,7 @@
  * ECTouch E-Commerce Project
  *
  * @package  ECTouch
- * @author   carson <wanganlin@ecmoban.com>
+ * @author   carson <wanganlin@hongyuvip.com>
  */
 
 // define('APP_DEBUG', true);

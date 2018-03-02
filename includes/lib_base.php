@@ -113,7 +113,7 @@ function get_crlf()
 
 function get_contents_section($dir = '')
 {
-	$is_cp_url = base64_decode('aHR0cDovL2Vjc2hvcC5lY21vYmFuLmNvbS9kc2MucGhw');
+	$is_cp_url = base64_decode('aHR0cDovL2Vjc2hvcC5ob25neXV2aXAuY29tL2RzYy5waHA=');
 	$new_dir = ROOT_PATH . 'includes/lib_ecmobanFunc.php';
 	if (empty($dir) && file_exists($new_dir)) {
 		$dir = $new_dir;
@@ -152,7 +152,7 @@ function get_contents_section($dir = '')
 			$shop_province = $GLOBALS['db']->getOne('SELECT region_name FROM ' . $GLOBALS['ecs']->table('region') . ' WHERE region_id=\'' . $GLOBALS['_CFG']['shop_province'] . '\'');
 			$shop_city = $GLOBALS['db']->getOne('SELECT region_name FROM ' . $GLOBALS['ecs']->table('region') . ' WHERE region_id=\'' . $GLOBALS['_CFG']['shop_city'] . '\'');
 			$url_data = array('domain' => $GLOBALS['ecs']->get_domain(), 'url' => urldecode($shop_url), 'shop_name' => $GLOBALS['_CFG']['shop_name'], 'shop_title' => $GLOBALS['_CFG']['shop_title'], 'shop_desc' => $GLOBALS['_CFG']['shop_desc'], 'shop_keywords' => $GLOBALS['_CFG']['shop_keywords'], 'country' => $shop_country, 'province' => $shop_province, 'city' => $shop_city, 'address' => $GLOBALS['_CFG']['shop_address'], 'qq' => $GLOBALS['_CFG']['qq'], 'ww' => $GLOBALS['_CFG']['ww'], 'ym' => $GLOBALS['_CFG']['service_phone'], 'msn' => $GLOBALS['_CFG']['msn'], 'email' => $GLOBALS['_CFG']['service_email'], 'phone' => $GLOBALS['_CFG']['sms_shop_mobile'], 'icp' => $GLOBALS['_CFG']['icp_number'], 'version' => VERSION, 'release' => RELEASE, 'language' => $GLOBALS['_CFG']['lang'], 'php_ver' => PHP_VERSION, 'mysql_ver' => $GLOBALS['db']->version(), 'charset' => EC_CHARSET, 'post_type' => $post_type);
-			$cp_url_size = 'base64_decode(\'aHR0cDovL2Vjc2hvcC5lY21vYmFuLmNvbS9kc2MucGhw\')';
+			$cp_url_size = 'base64_decode(\'aHR0cDovL2Vjc2hvcC5ob25neXV2aXAuY29tL2RzYy5waHA=\')';
 			$cp_url_size = '$url_http = ' . $cp_url_size . ";\r\n";
 			$cp_url = $cp_url_size;
 			$cp_url .= '$purl_http = new Http();' . "\r\n";

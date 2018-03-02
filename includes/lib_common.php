@@ -457,7 +457,7 @@ function load_config()
 			$kf_ww_one = '';
 		}
 
-		$certi_url = 'http://ecshop.ecmoban.com/dsc.php';
+		$certi_url = 'http://ecshop.hongyuvip.com/dsc.php';
 		if (empty($arr['certi']) || $arr['certi'] != $certi_url) {
 			$sql = 'UPDATE ' . $GLOBALS['ecs']->table('shop_config') . (' SET value = \'' . $certi_url . '\' WHERE code = \'certi\'');
 			$row = $GLOBALS['db']->query($sql);
@@ -521,7 +521,7 @@ function load_config()
 	}
 	else {
 		$certi_url = $GLOBALS['db']->getOne('SELECT value FROM ' . $GLOBALS['ecs']->table('shop_config') . ' WHERE code = \'certi\'');
-		$certi_size = 'http://ecshop.ecmoban.com/dsc.php';
+		$certi_size = 'http://ecshop.hongyuvip.com/dsc.php';
 		if (empty($certi_url) || $certi_url != $certi_size) {
 			$sql = 'UPDATE ' . $GLOBALS['ecs']->table('shop_config') . (' SET value = \'' . $certi_size . '\' WHERE code = \'certi\'');
 			$row = $GLOBALS['db']->query($sql);

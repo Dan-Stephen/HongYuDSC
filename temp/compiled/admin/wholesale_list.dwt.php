@@ -20,7 +20,7 @@
                     <div class="view-case">
                     	<div class="view-case-tit"><i></i>查看教程</div>
                         <div class="view-case-info">
-                        	<a href="http://help.ecmoban.com/article-6545.html" target="_blank">商城批发管理活动说明</a>
+                        	<a href="http://help.hongyuvip.com/article-6545.html" target="_blank">商城批发管理活动说明</a>
                         </div>
                     </div>			
                     <?php endif; ?>				

@@ -60,7 +60,7 @@ if (isset($set_modules) && ($set_modules == true)) {
 	$modules[$i]['desc'] = 'sto_express_desc';
 	$modules[$i]['cod'] = false;
 	$modules[$i]['author'] = 'ECMOBAN TEAM';
-	$modules[$i]['website'] = 'http://www.ecmoban.com';
+	$modules[$i]['website'] = 'http://www.hongyuvip.com';
 	$modules[$i]['configure'] = array(
 	array('name' => 'item_fee', 'value' => 15),
 	array('name' => 'base_fee', 'value' => 15),
