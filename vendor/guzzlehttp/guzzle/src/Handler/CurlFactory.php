@@ -182,9 +182,7 @@ class CurlFactory implements CurlFactoryInterface
         );
 
         // Create a connection exception if it was a specific error code.
-        $error = isset($connectionErrors[$easy->errno])
-            ? new ConnectException($message, $easy->request, null, $ctx)
-            : new RequestException($message, $easy->request, $easy->response, null, $ctx);
+        //$error = isset($connectionErrors[$easy->errno]) ? new ConnectException($message, $easy->request, null, $ctx) : new RequestException($message, $easy->request, $easy->response, null, $ctx);
 
         return \GuzzleHttp\Promise\rejection_for($error);
     }

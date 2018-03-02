@@ -497,7 +497,7 @@ if (!defined('IN_ECS')) {
 }
 
 define('APPNAME', 'ECMOBAN_DSC');
-define('VERSION', 'v2.4.9');
+define('VERSION', 'v8.1');
 define('RELEASE', '20180202');
 
 ?>
