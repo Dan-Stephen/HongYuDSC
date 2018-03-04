@@ -2027,6 +2027,11 @@ function delete_invalid_goods_attr($attr_group = array(), $goods_id = 0, $goods_
 	}
 }
 
+function get_templates()
+{
+	return true;
+}
+
 if (!defined('IN_ECS')) {
 	exit('Hacking attempt');
 }

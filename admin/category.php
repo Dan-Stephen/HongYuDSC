@@ -366,8 +366,8 @@ if ($_REQUEST['act'] == 'edit') {
 	
 	//vis_category
 	/*顶级分类模板*/
-	//$templates = get_templates();
-	//$smarty->assign('templates', $templates);
+	$templates = get_templates();
+	$smarty->assign('templates', $templates);
 
 	$smarty->assign('attr_list', $attr_list);
 	$smarty->assign('attr_cat_id', $attr_cat_id);
