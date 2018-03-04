@@ -106,7 +106,7 @@
 					<ul class="row3">
  
     <li>
-        <div class="img"><a href="goods.php?id=687"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490146354522.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=687"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490146354522.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=687">超薄创意 吸顶灯客厅灯长方形大气现代简约LED主卧室灯餐厅灯具 特别提醒 三色调光和高亮款不支持手机控制</a></div>
             <div class="price">
@@ -115,7 +115,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=688"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490146521070.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=688"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490146521070.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=688">飞科吹风机家用大功率发廊理发店冷热风负离子静音学生电吹风筒 人气爆品6档调节 水润负离子恒温护发</a></div>
             <div class="price">
@@ -124,7 +124,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=689"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490146589471.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=689"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490146589471.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=689">美的电磁炉Midea/美的 C21-WT2116超薄触摸屏电磁炉特价家用正品 纤薄机身 二级能效 更省电</a></div>
             <div class="price">
@@ -133,7 +133,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=690"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490147016791.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=690"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490147016791.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=690">SUPOR/苏泊尔 CFXB40HC807-120家用智能IH球釜电饭煲3-4人正品4L</a></div>
             <div class="price">
@@ -142,7 +142,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=691"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490147066526.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=691"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490147066526.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=691">Xiaomi/小米 米家IH电饭煲 小米智能家用wifi电饭锅3L手机控制 小米专卖店 正品授权</a></div>
             <div class="price">
@@ -151,7 +151,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=692"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490147116022.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=692"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490147116022.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=692">海尔落地扇家用电风扇遥控静音 办公室风扇 学生宿舍立式摇头风扇 五叶飓风 全国联保 大风力 超静音</a></div>
             <div class="price">
@@ -247,7 +247,7 @@
 					<ul class="row5">
  
     <li>
-        <div class="img"><a href="goods.php?id=687"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490146354522.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=687"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490146354522.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=687">超薄创意 吸顶灯客厅灯长方形大气现代简约LED主卧室灯餐厅灯具 特别提醒 三色调光和高亮款不支持手机控制</a></div>
             <div class="price">
@@ -256,7 +256,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=688"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490146521070.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=688"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490146521070.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=688">飞科吹风机家用大功率发廊理发店冷热风负离子静音学生电吹风筒 人气爆品6档调节 水润负离子恒温护发</a></div>
             <div class="price">
@@ -265,7 +265,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=689"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490146589471.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=689"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490146589471.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=689">美的电磁炉Midea/美的 C21-WT2116超薄触摸屏电磁炉特价家用正品 纤薄机身 二级能效 更省电</a></div>
             <div class="price">
@@ -274,7 +274,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=690"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490147016791.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=690"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490147016791.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=690">SUPOR/苏泊尔 CFXB40HC807-120家用智能IH球釜电饭煲3-4人正品4L</a></div>
             <div class="price">
@@ -283,7 +283,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=691"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490147066526.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=691"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490147066526.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=691">Xiaomi/小米 米家IH电饭煲 小米智能家用wifi电饭锅3L手机控制 小米专卖店 正品授权</a></div>
             <div class="price">
@@ -292,7 +292,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=692"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490147116022.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=692"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490147116022.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=692">海尔落地扇家用电风扇遥控静音 办公室风扇 学生宿舍立式摇头风扇 五叶飓风 全国联保 大风力 超静音</a></div>
             <div class="price">
@@ -301,7 +301,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=693"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490147169027.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=693"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490147169027.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=693">Changhong/长虹 55G6 55吋液晶电视机4k曲面平板电视智能网络wifi 曲面 4K超清 双64位 U-MAX</a></div>
             <div class="price">
@@ -310,7 +310,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=694"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490147285511.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=694"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490147285511.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=694">TCL取暖器小太阳电暖器台式电暖气暖风机烤火炉电暖风家用学生 700W功率 两档调节 碳纤维发热</a></div>
             <div class="price">
@@ -319,7 +319,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=695"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490147339059.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=695"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490147339059.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=695">JOMOO九牧精铜单冷快开水龙头洗衣机快开水龙头自来水嘴</a></div>
             <div class="price">
@@ -328,7 +328,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=696"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490147569250.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=696"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490147569250.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=696">飞科全身水洗智能电动充电式剃须刀男士刮胡刀胡须刀刮胡子FS375 全身水洗 座充设计 智能操控系统</a></div>
             <div class="price">

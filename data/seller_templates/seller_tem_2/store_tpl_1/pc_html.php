@@ -67,7 +67,7 @@
 					<ul class="row3">
  
     <li>
-        <div class="img"><a href="goods.php?id=701"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490154813815.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=701"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490154813815.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=701">PENTAX 宾得 K-1 K1(28-105mm/15-30mm/24-70mm/70-200mm f2.8) 官方授权 正规发票 送好礼</a></div>
             <div class="price">
@@ -76,7 +76,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=703"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490154962058.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=703"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490154962058.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=703">【套餐送豪礼】Samsung/三星Galaxy C7 C7000全网通4G手机</a></div>
             <div class="price">
@@ -85,7 +85,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=704"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490155022529.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=704"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490155022529.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=704">Ordro/欧达 Z20 数码摄像机支持wifi 高清广角专业家用商务婚庆DV 可加热靴索尼影像2400万1080P</a></div>
             <div class="price">
@@ -94,7 +94,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=707"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490155369708.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=707"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490155369708.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=707">Apple/苹果 Apple Watch Series 2 智能手表42mm</a></div>
             <div class="price">
@@ -103,7 +103,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=708"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490155421608.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=708"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490155421608.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=708">小米手环2蓝牙智能男女情侣运动计步器睡眠心率检测器手表支持IOS 精准心率监测 超长续航 触摸操作</a></div>
             <div class="price">
@@ -112,7 +112,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=709"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490155463941.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=709"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490155463941.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=709">手机通用自拍杆苹果自牌杆iphone7蓝牙补光华为vivo拍照神器干6s 全新第八代 自动连接 手机通用</a></div>
             <div class="price">
@@ -169,7 +169,7 @@
 					<ul class="row5">
  
     <li>
-        <div class="img"><a href="goods.php?id=700"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490154412286.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=700"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490154412286.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=700">小米红米3s手机壳保护套红米3高配版指纹男女款潮版磨砂硬壳防摔 收藏截图 送大礼包</a></div>
             <div class="price">
@@ -178,7 +178,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=701"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490154813815.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=701"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490154813815.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=701">PENTAX 宾得 K-1 K1(28-105mm/15-30mm/24-70mm/70-200mm f2.8) 官方授权 正规发票 送好礼</a></div>
             <div class="price">
@@ -187,7 +187,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=702"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490154865230.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=702"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490154865230.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=702">唐麦 T0耳机耳塞入耳式重低音线控带麦K歌耳麦手机笔记本电脑通用 K歌语音清晰 佩戴舒适牢靠 一年质保换新</a></div>
             <div class="price">
@@ -196,7 +196,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=703"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490154962058.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=703"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490154962058.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=703">【套餐送豪礼】Samsung/三星Galaxy C7 C7000全网通4G手机</a></div>
             <div class="price">
@@ -205,7 +205,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=704"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490155022529.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=704"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490155022529.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=704">Ordro/欧达 Z20 数码摄像机支持wifi 高清广角专业家用商务婚庆DV 可加热靴索尼影像2400万1080P</a></div>
             <div class="price">
@@ -214,7 +214,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=705"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490155064081.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=705"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490155064081.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=705">绿联 数据线安卓高速单头加长手机通用华为魅族小米2a快充电器2米 铝合金外壳+纯铜芯，充电快寿命长</a></div>
             <div class="price">
@@ -223,7 +223,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=706"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490155317252.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=706"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490155317252.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=706">4色现货[送壳钢膜耳机]Xiaomi/小米 红米Note4X 32G全网通4G版5C 现货送手机壳、钢化膜、耳机</a></div>
             <div class="price">
@@ -232,7 +232,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=707"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490155369708.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=707"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490155369708.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=707">Apple/苹果 Apple Watch Series 2 智能手表42mm</a></div>
             <div class="price">
@@ -241,7 +241,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=708"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490155421608.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=708"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490155421608.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=708">小米手环2蓝牙智能男女情侣运动计步器睡眠心率检测器手表支持IOS 精准心率监测 超长续航 触摸操作</a></div>
             <div class="price">
@@ -250,7 +250,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=709"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490155463941.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=709"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490155463941.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=709">手机通用自拍杆苹果自牌杆iphone7蓝牙补光华为vivo拍照神器干6s 全新第八代 自动连接 手机通用</a></div>
             <div class="price">

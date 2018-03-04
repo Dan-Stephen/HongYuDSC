@@ -100,7 +100,7 @@
                                                 <ul class="row4">
  
     <li>
-        <div class="img"><a href="goods.php?id=875"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490223817968.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=875"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490223817968.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=875">杜蕾斯官方旗舰店 持久装男用延时避孕套3只成人情趣安全套套正品 苯佐卡因延时 放心可靠 持久快感</a></div>
             <div class="price">
@@ -109,7 +109,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=876"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490223850353.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=876"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490223850353.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=876">杜蕾斯官方旗舰店 凸点螺纹装12只避孕套大号 情趣型安全套套byt 凸点螺纹刺激 有型易戴 官方品质保障</a></div>
             <div class="price">
@@ -118,7 +118,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=877"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490223899234.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=877"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490223899234.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=877">杜蕾斯官方旗舰店 AiR空气套量贩装安全套 超薄装避孕套男用正品 量贩钜惠 正品保障 薄柔滑贴净</a></div>
             <div class="price">
@@ -127,7 +127,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=878"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490223936174.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=878"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490223936174.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=878">杜蕾斯旗舰店私处紧致阴道哑铃女用产后恢复缩阴球成人情趣性用品 健康紧致 专属app 配套训练 官方正品</a></div>
             <div class="price">
@@ -136,7 +136,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=879"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490223973665.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=879"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490223973665.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=879">赤芯 黑色蕾丝吊带丝袜 吊袜带极度性感长筒网袜诱惑激情情趣内衣 面纱+上衣+手套+内裤+蕾丝吊带袜</a></div>
             <div class="price">
@@ -145,7 +145,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=880"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490224002496.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=880"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490224002496.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=880">赤芯情趣内衣蕾丝挂脖极度性感肚兜睡衣诱惑透明系带新结婚庆礼物 精美包装 个性图案 半透诱惑 复古风格 实惠套装</a></div>
             <div class="price">
@@ -154,7 +154,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=881"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490224029712.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=881"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490224029712.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=881">宫廷 女夏秋情趣内衣极度性感睡衣诱惑蕾丝肚兜短裙大码结婚礼物 漂亮盒装 蕾丝系带挂脖 弹力半透 肚兜+三角裤</a></div>
             <div class="price">
@@ -163,7 +163,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=882"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490224058004.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=882"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490224058004.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=882">杜蕾斯旗舰店 芦荟按摩油人体润滑剂男用 润滑油夫妻房事用品 按摩调情 舒适润滑 情趣之选</a></div>
             <div class="price">
@@ -225,7 +225,7 @@
                                                 <ul class="row5">
  
     <li>
-        <div class="img"><a href="goods.php?id=875"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490223817968.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=875"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490223817968.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=875">杜蕾斯官方旗舰店 持久装男用延时避孕套3只成人情趣安全套套正品 苯佐卡因延时 放心可靠 持久快感</a></div>
             <div class="price">
@@ -234,7 +234,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=880"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490224002496.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=880"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490224002496.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=880">赤芯情趣内衣蕾丝挂脖极度性感肚兜睡衣诱惑透明系带新结婚庆礼物 精美包装 个性图案 半透诱惑 复古风格 实惠套装</a></div>
             <div class="price">
@@ -243,7 +243,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=881"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490224029712.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=881"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490224029712.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=881">宫廷 女夏秋情趣内衣极度性感睡衣诱惑蕾丝肚兜短裙大码结婚礼物 漂亮盒装 蕾丝系带挂脖 弹力半透 肚兜+三角裤</a></div>
             <div class="price">
@@ -252,7 +252,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=882"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490224058004.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=882"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490224058004.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=882">杜蕾斯旗舰店 芦荟按摩油人体润滑剂男用 润滑油夫妻房事用品 按摩调情 舒适润滑 情趣之选</a></div>
             <div class="price">
@@ -261,7 +261,7 @@
         </div>
     </li>
     <li>
-        <div class="img"><a href="goods.php?id=883"><img src="http://test1.hongyuvip.com/images/201703/source_img/0_G_1490224092708.jpg"></a></div>
+        <div class="img"><a href="goods.php?id=883"><img src="http://www.hongyuvip.com/images/201703/source_img/0_G_1490224092708.jpg"></a></div>
         <div class="info">
             <div class="name"><a href="goods.php?id=883">杜蕾斯旗舰店震动棒女用振动自慰器抽插高潮夫妻情趣用品另类玩具 品牌保障 G点强震刺激 安心防水 多频速</a></div>
             <div class="price">
