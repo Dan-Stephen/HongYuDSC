@@ -1,5 +1,5 @@
 <?php
-//zend by QQ:124861234  ÔÂÃÎÍøÂç  ½ûÖ¹µ¹Âô Ò»¾­·¢ÏÖÍ£Ö¹ÈÎºÎ·þÎñ
+//zend by QQ:1527200768  ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½  ï¿½ï¿½Ö¹ï¿½ï¿½ï¿½ï¿½ Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í£Ö¹ï¿½ÎºÎ·ï¿½ï¿½ï¿½
 define('IN_ECS', true);
 require dirname(__FILE__) . '/includes/init.php';
 require ROOT_PATH . '/includes/lib_area.php';
@@ -193,7 +193,7 @@ else if ($_REQUEST['act'] == 'add_to_cart')
 				$attr['attr_name'] = htmlspecialchars($attr['attr_name']);
 				$goods['goods_attr'][$key]['attr_name'] = $attr['attr_name'];
 				$attr['attr_val'] = htmlspecialchars($attr['attr_val']);
-				$goods_attr_name .= $attr['attr_name'] . '£º' . $attr['attr_val'] . '&nbsp;';
+				$goods_attr_name .= $attr['attr_name'] . 'ï¿½ï¿½' . $attr['attr_val'] . '&nbsp;';
 			}
 		}
 		$total = $goods['number'] * $goods['goods_price'];
@@ -340,7 +340,7 @@ function get_business_goods($cat_id)
 	$type = 4;
 	$children = get_children($cat_id, $type, 0, $table);
 	$sql = 'SELECT w.*, g.goods_thumb, g.goods_img, MIN(wvp.volume_number) AS volume_number, wvp.volume_price FROM ' . $GLOBALS['ecs']->table('wholesale') . ' AS w ' . ' LEFT JOIN ' . $GLOBALS['ecs']->table('goods') . ' AS g ON w.goods_id = g.goods_id ' . ' LEFT JOIN ' . $GLOBALS['ecs']->table('wholesale_volume_price') . ' AS wvp ON wvp.goods_id = g.goods_id ' . ' WHERE (' . $children . ' OR ' . get_wholesale_extension_goods($children, 'w.') . ') AND w.review_status = 3 GROUP BY goods_id';
-	$res = $GLOBALS['db']->getAll($sql);//½ûÖ¹µ¹Âô dm299.taobao.com  
+	$res = $GLOBALS['db']->getAll($sql);//ï¿½ï¿½Ö¹ï¿½ï¿½ï¿½ï¿½ dm299.taobao.com  
 	foreach ($res as $key => $row ) 
 	{
 		$res[$key]['goods_extend'] = get_wholesale_extend($row['goods_id']);
@@ -367,7 +367,7 @@ function get_wholesale_limit()
 		$res[$key]['small_time'] = $row['end_time'] - $now;
 		$res[$key]['goods_name'] = $row['goods_name'];
 		$res[$key]['goods_price'] = $row['goods_price'];
-		$res[$key]['moq'] = $row['moq'];//½ûÖ¹µ¹Âô dm299.taobao.com  
+		$res[$key]['moq'] = $row['moq'];//ï¿½ï¿½Ö¹ï¿½ï¿½ï¿½ï¿½ dm299.taobao.com  
 		$res[$key]['volume_number'] = $row['volume_number'];
 		$res[$key]['volume_price'] = $row['volume_price'];
 		$res[$key]['thumb'] = get_image_path($row['goods_id'], $row['goods_thumb'], true);

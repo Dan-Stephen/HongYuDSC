@@ -24666,7 +24666,7 @@ CREATE TABLE `dsc_wechat` (
 -- ----------------------------
 -- Records of dsc_wechat
 -- ----------------------------
-INSERT INTO `dsc_wechat` VALUES ('1', '月梦网络', 'asd', '', 'asda', 'asd', 'asd', 'asda', '2', '0', 'a8f5f167f44f4964e6c998dee827110c', '', '0', '1497931012', '0', '1', '1', '0');
+INSERT INTO `dsc_wechat` VALUES ('1', '鸿宇科技', '', '', '', '', '', '', '2', '0', '', '', '0', '1497931012', '0', '1', '1', '0');
 
 -- ----------------------------
 -- Table structure for `dsc_wechat_custom_message`
