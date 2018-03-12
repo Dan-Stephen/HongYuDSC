@@ -22418,7 +22418,7 @@ CREATE TABLE `dsc_seo` (
 -- ----------------------------
 -- Records of dsc_seo
 -- ----------------------------
-INSERT INTO `dsc_seo` VALUES ('1', '鸿宇商城 - B2B2C商城系统 buy.hongyuvip.com', '首页', '首页', 'index');
+INSERT INTO `dsc_seo` VALUES ('1', '鸿宇大商创 - B2B2C商城系统 buy.hongyuvip.com', '首页', '首页', 'index');
 INSERT INTO `dsc_seo` VALUES ('2', '团购', '团购', '团购', 'group');
 INSERT INTO `dsc_seo` VALUES ('3', '团购详情', '团购详情', '团购详情', 'group_content');
 INSERT INTO `dsc_seo` VALUES ('5', '积分商城', '积分商城', '积分商城', 'change');
