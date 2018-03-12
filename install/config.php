@@ -218,7 +218,7 @@ class DbManage
                 fputs($fp, 'www.hongyuvip.com');
                 fclose($fp);
 
-                mysql_close($this->db);
+                //mysql_close($this->db);
 
                 $result = [
                     'status' => true,

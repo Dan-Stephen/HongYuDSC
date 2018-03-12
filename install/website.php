@@ -71,7 +71,7 @@ if (is_post()) {
         $result['errors'][] = '管理员密码设置失败';
     }
 
-    $conn->close();
+    //$conn->close();
 
     if (!empty($result['errors']) && count($result['errors']) > 0) {
         $result = [
@@ -82,6 +82,7 @@ if (is_post()) {
         ];
         exit(json_encode($result, JSON_UNESCAPED_UNICODE));
     } else {
+        //$conn->close();
         $result = [
             'status' => true,
             'code' => '0',  // 导入配置成功
