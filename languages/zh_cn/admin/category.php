@@ -1,5 +1,5 @@
 <?php
-//zend by QQ:1527200768  鸿宇-网络  禁止倒卖 一经发现停止任何服务
+//zend by QQ:1527200768  鸿宇科技  禁止倒卖 一经发现停止任何服务
 $_LANG['categoryFile'] = '商家入驻流程经营类目证件';
 $_LANG['document_title'] = '证件标题';
 $_LANG['title_catedit_succed'] = '证件标题编辑成功!';

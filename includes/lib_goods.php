@@ -1,5 +1,5 @@
 <?php
-//zend by QQ:1527200768  鸿宇-网络  禁止倒卖 一经发现停止任何服务
+//zend by QQ:1527200768  鸿宇科技  禁止倒卖 一经发现停止任何服务
 function goods_sort($goods_a, $goods_b)
 {
 	if ($goods_a['sort_order'] == $goods_b['sort_order']) {

@@ -1,5 +1,5 @@
 <?php
-//zend by QQ:1527200768  鸿宇-网络  禁止倒卖 一经发现停止任何服务
+//zend by QQ:1527200768  鸿宇科技  禁止倒卖 一经发现停止任何服务
 $_LANG['order_vcard_return'] = '【订单退款】储值卡退款金额：%s';
 $_LANG['01_email_manage'] = '邮件群发管理';
 $_LANG['mail'] = '邮件';

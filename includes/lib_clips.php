@@ -1,5 +1,5 @@
 <?php
-//zend by QQ:1527200768  鸿宇-网络  禁止倒卖 一经发现停止任何服务
+//zend by QQ:1527200768  鸿宇科技  禁止倒卖 一经发现停止任何服务
 function get_collection_goods($user_id, $record_count, $page, $pageFunc, $size = 10)
 {
 	require_once 'includes/cls_pager.php';

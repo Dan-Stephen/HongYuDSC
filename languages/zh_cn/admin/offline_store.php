@@ -1,5 +1,5 @@
 <?php
-//zend by QQ:1527200768  鸿宇-网络  禁止倒卖 一经发现停止任何服务
+//zend by QQ:1527200768  鸿宇科技  禁止倒卖 一经发现停止任何服务
 $_LANG['add_stores'] = '添加门店';
 $_LANG['stores_user'] = '登陆名';
 $_LANG['stores_pwd'] = '登陆密码';

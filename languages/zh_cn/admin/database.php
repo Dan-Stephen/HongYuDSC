@@ -1,5 +1,5 @@
 <?php
-//zend by QQ:1527200768  鸿宇-网络  禁止倒卖 一经发现停止任何服务
+//zend by QQ:1527200768  鸿宇科技  禁止倒卖 一经发现停止任何服务
 $_LANG['db_manage'] = '数据库管理';
 $_LANG['start_backup'] = '开始备份';
 $_LANG['backup_name'] = '备份名称';

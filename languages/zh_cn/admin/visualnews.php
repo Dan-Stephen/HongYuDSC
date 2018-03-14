@@ -1,5 +1,5 @@
 <?php
-//zend by QQ:1527200768  鸿宇-网络  禁止倒卖 一经发现停止任何服务
+//zend by QQ:1527200768  鸿宇科技  禁止倒卖 一经发现停止任何服务
 $_LANG['title'] = 'CMS新闻';
 $_LANG['confirmation_release'] = '确认发布';
 $_LANG['preview'] = '预览';

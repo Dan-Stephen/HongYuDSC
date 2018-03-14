@@ -1,5 +1,5 @@
 <?php
-//zend by QQ:1527200768  鸿宇-网络  禁止倒卖 一经发现停止任何服务
+//zend by QQ:1527200768  鸿宇科技  禁止倒卖 一经发现停止任何服务
 $_LANG['01_openapi_list'] = '对外接口列表';
 $_LANG['02_openapi_add'] = '添加对外接口';
 $_LANG['is_open'] = '是否开启';

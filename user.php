@@ -1,5 +1,5 @@
 <?php
-//zend by QQ:1527200768  鸿宇-网络  禁止倒卖 一经发现停止任何服务
+//zend by QQ:1527200768  鸿宇科技  禁止倒卖 一经发现停止任何服务
 function get_validate_info($user_id)
 {
 	$sql = 'SELECT u.mobile_phone, u.is_validated, u.email, up.pay_password, ur.bank_mobile, ur.real_name, ur.bank_card, ur.bank_name, ur.review_status FROM ' . $GLOBALS['ecs']->table('users') . ' AS u ' . ' LEFT JOIN ' . $GLOBALS['ecs']->table('users_paypwd') . ' AS up ON u.user_id = up.user_id ' . ' LEFT JOIN ' . $GLOBALS['ecs']->table('users_real') . ' AS ur ON u.user_id = ur.user_id ' . (' WHERE u.user_id=\'' . $user_id . '\'');

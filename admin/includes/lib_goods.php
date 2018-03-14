@@ -1,5 +1,5 @@
 <?php
-//zend by QQ:1527200768  鸿宇-网络  禁止倒卖 一经发现停止任何服务
+//zend by QQ:1527200768  鸿宇科技  禁止倒卖 一经发现停止任何服务
 function get_intro_list()
 {
 	return array('is_best' => $GLOBALS['_LANG']['is_best'], 'is_new' => $GLOBALS['_LANG']['is_new'], 'is_hot' => $GLOBALS['_LANG']['is_hot'], 'is_promote' => $GLOBALS['_LANG']['is_promote'], 'all_type' => $GLOBALS['_LANG']['all_type']);

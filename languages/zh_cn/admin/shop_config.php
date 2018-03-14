@@ -1,5 +1,5 @@
 <?php
-//zend by QQ:1527200768  鸿宇-网络  禁止倒卖 一经发现停止任何服务
+//zend by QQ:1527200768  鸿宇科技  禁止倒卖 一经发现停止任何服务
 require ROOT_PATH . ADMIN_PATH . '/sms_url.php';
 $_LANG['cfg_name']['floor_nav_type'] = '首页楼层左侧导航样式';
 $_LANG['cfg_range']['floor_nav_type'][1] = '样式一';
