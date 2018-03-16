@@ -530,11 +530,11 @@
                     <i class="arrowImg"></i>
                 </li>
                                                                 <li data-catgoods="" class="first" ectype="floor_cat_content" data-flooreveval="0" data-visualhome="1" data-floornum="6" data-id="29">
-                    <span>瑾梦网络2</span>
+                    <span>鸿宇科技2</span>
                     <i class="arrowImg"></i>
                 </li>
                                                                 <li data-catgoods="" class="first" ectype="floor_cat_content" data-flooreveval="0" data-visualhome="1" data-floornum="6" data-id="30">
-                    <span>瑾梦网络3</span>
+                    <span>鸿宇科技3</span>
                     <i class="arrowImg"></i>
                 </li>
                                                             </ul>

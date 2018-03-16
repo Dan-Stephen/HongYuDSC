@@ -208,7 +208,7 @@ if (isset($set_modules) && $set_modules == true) {
 	$modules[$i]['type'] = 'qq';
 	$modules[$i]['className'] = 'qq';
 	$modules[$i]['author'] = 'ECTouch';
-	$modules[$i]['qq'] = '800007167';
+	$modules[$i]['qq'] = '1527200768';
 	$modules[$i]['email'] = 'support@hongyuvip.com';
 	$modules[$i]['website'] = 'https://connect.qq.com/';
 	$modules[$i]['version'] = '1.0';

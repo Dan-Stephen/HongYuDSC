@@ -68,7 +68,7 @@ if (isset($set_modules) && $set_modules == true) {
 	$modules[$i]['type'] = 'wechat';
 	$modules[$i]['className'] = 'wechat';
 	$modules[$i]['author'] = 'ECTouch';
-	$modules[$i]['qq'] = '800007167';
+	$modules[$i]['qq'] = '1527200768';
 	$modules[$i]['email'] = 'support@hongyuvip.com';
 	$modules[$i]['website'] = 'http://open.weixin.qq.com';
 	$modules[$i]['version'] = '2.0';

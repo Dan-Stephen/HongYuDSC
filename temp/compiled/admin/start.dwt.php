@@ -266,7 +266,7 @@
                                 </dl>
                                 <dl>
                                 	<dt>客服 QQ：</dt>
-                                    <dd><a href="http://crm2.qq.com/page/portalpage/wpa.php?uin=800007167&aty=0&a=0&curl=&ty=1" target="_blank">800007167</a></dd>
+                                    <dd><a href="http://crm2.qq.com/page/portalpage/wpa.php?uin=1527200768&aty=0&a=0&curl=&ty=1" target="_blank">1527200768</a></dd>
                                 </dl>
                                 <dl>
                                 	<dt>问答反馈：</dt>

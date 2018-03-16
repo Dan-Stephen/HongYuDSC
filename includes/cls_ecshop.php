@@ -496,8 +496,8 @@ if (!defined('IN_ECS')) {
 	exit('Hacking attempt');
 }
 
-define('APPNAME', 'ECMOBAN_DSC');
-define('VERSION', 'v8.1.2');
-define('RELEASE', '20180202');
+define('APPNAME', 'HONGYU_DSC');
+define('VERSION', 'v8.1.3');
+define('RELEASE', '20180316');
 
 ?>

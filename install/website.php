@@ -36,8 +36,8 @@ if (is_post()) {
 
     $conn = new mysqli($database_host, $database_username, $database_password, $database_name, $database_port);
 
-    $db_site_name_sql = 'update dsc_shop_config set value="' . APP_VERSION . '" where code="dsc_version"';
-    $db_site_name_sql = 'update dsc_shop_config set value="' . time() . '" where code="install_date"';
+    $db_site_dsc_version_sql = 'update dsc_shop_config set value="' . APP_VERSION . '" where code="dsc_version"';
+    $db_site_install_date_sql = 'update dsc_shop_config set value="' . time() . '" where code="install_date"';
 
     $db_site_name_sql = 'update dsc_shop_config set value="' . $website_name . '" where code="shop_name"';
     $db_site_title_sql = 'update dsc_shop_config set value="' . $website_title . '" where code="shop_title"';
@@ -51,6 +51,9 @@ if (is_post()) {
     $db_site_admin_pass_sql = 'update dsc_admin_user set password="' . $new_password . '" where user_id="1"';
 
     $result = array();
+
+    $conn->query($db_site_dsc_version_sql);
+    $conn->query($db_site_install_date_sql);
 
     if ($conn->query($db_site_name_sql) == false) {
         $result['errors'][] = '网站名称设置失败';
