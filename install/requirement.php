@@ -92,7 +92,7 @@ foreach ($folder_list as $folder) {
 
 // 处理检测结果和友好提示
 if (!empty($check['tips']) && count($check['tips']) > 0) {
-    $check['tips'][] = "<a href=\"http://www.fuwuweb.com/article/88\" target=\"_blank\">鸿宇商城安装教程</a> <a href=\"http://www.fuwuweb.com\" target=\"_blank\">鸿宇社区</a>";
+    $check['tips'][] = "<a href=\"http://www.fuwuweb.com/article/88\" target=\"_blank\">鸿宇大商创安装教程</a> <a href=\"http://www.fuwuweb.com\" target=\"_blank\">鸿宇社区</a>";
 }
 
 
