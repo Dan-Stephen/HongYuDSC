@@ -15,9 +15,9 @@
 
 require __DIR__ . '/config/app.php';
 
-if (file_exists('../data/install.lock.php')){
+if (file_exists('../data/install.lock.php')) {
     fopen("install.lock.php", "w");
-}else{
+} else {
     header("Location: ./index.php\n");
 }
 

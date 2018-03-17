@@ -219,6 +219,7 @@ class DbManage
                 fclose($fp);
 
                 //mysql_close($this->db);
+                $this->close_db();
 
                 $result = [
                     'status' => true,
@@ -297,7 +298,7 @@ class DbManage
      */
 
     // 关闭数据库连接
-    private function close()
+    private function close_db()
     {
         mysql_close($this->db);
     }

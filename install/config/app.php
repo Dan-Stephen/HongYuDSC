@@ -1,7 +1,7 @@
 <?php
 
 header("content-Type: text/html; charset=Utf-8"); // 设置字符的编码是utf-8
-date_default_timezone_set('Asia/Shanghai'); // 设置时区
+date_default_timezone_set('PRC'); //设置中国时区
 error_reporting(0); // 不显示所有提示  7-只显示严重错误提示 255-显示所有提示
 
 define('APP_NAME', 'HongYuDSC');
@@ -29,7 +29,8 @@ if ($site_url_name !== 'error.php') {
 
 function errorHandle()
 {
-    header("Location: ./error.php\n");exit();
+    header("Location: ./error.php\n");
+    exit();
 }
 
 function is_post()

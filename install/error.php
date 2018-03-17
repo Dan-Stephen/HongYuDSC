@@ -15,4 +15,9 @@
 
 require __DIR__ . '/config/app.php';
 
-include("views/error.html");
+if (file_exists('../data/install.lock.php') && file_exists('install.lock.php')) {
+    include("views/error.html");
+} else {
+    header("Location: ./index.php\n");
+    exit();
+}
