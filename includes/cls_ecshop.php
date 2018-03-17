@@ -497,7 +497,7 @@ if (!defined('IN_ECS')) {
 }
 
 define('APPNAME', 'HONGYU_DSC');
-define('VERSION', 'v8.1.3');
-define('RELEASE', '20180316');
+define('VERSION', 'v8.1.5');
+define('RELEASE', '20180318');
 
 ?>

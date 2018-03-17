@@ -5,8 +5,8 @@ date_default_timezone_set('PRC'); //设置中国时区
 error_reporting(0); // 不显示所有提示  7-只显示严重错误提示 255-显示所有提示
 
 define('APP_NAME', 'HongYuDSC');
-define('APP_VERSION', 'v8.1.3');
-define('APP_UPDATE_TIME', '2018-03-16');
+define('APP_VERSION', 'v8.1.5');
+define('APP_UPDATE_TIME', '2018-03-18');
 define('APP_CHINESE_NAME', '鸿宇大商创');
 define('APP_DESCRIBE', '运营安装版');
 define('APP_SITE_NAME', '鸿宇科技');
