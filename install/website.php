@@ -72,7 +72,7 @@ if (is_post()) {
         $result['errors'][] = '管理员密码设置失败';
     }
 
-    $conn->close();
+    //$conn->close();
 
     if (!empty($result['errors']) && count($result['errors']) > 0) {
         $result = [
