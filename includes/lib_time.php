@@ -22,7 +22,30 @@ function local_mktime($hour = NULL, $minute = NULL, $second = NULL, $month = NUL
 	return $time;
 }
 
+/**
+ * 将GMT时间戳格式化为用户自定义时区日期
+ *
+ * @param  string       $format
+ * @param  integer      $time       该参数必须是一个GMT的时间戳
+ *
+ * @return  string
+ */
 function local_date($format, $time = NULL)
+{
+    $timezone = isset($_SESSION['timezone']) ? $_SESSION['timezone'] : $GLOBALS['_CFG']['timezone'];
+
+    if ($time === NULL) {
+        $time = gmtime();
+    } elseif ($time <= 0) {
+        return '';
+    }
+
+    $time += ($timezone * 3600);
+
+    return date($format, $time);
+}
+
+function local_date_old($format, $time = NULL)
 {
 	$timezone = (isset($_SESSION['timezone']) ? $_SESSION['timezone'] : $GLOBALS['_CFG']['timezone']);
 
