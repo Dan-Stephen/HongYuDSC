@@ -16944,7 +16944,7 @@ CREATE TABLE `dsc_seckill_goods` (
   KEY `sec_id` (`sec_id`),
   KEY `tb_id` (`tb_id`),
   KEY `goods_id` (`goods_id`)
-) ENGINE=MyISAM AUTO_INCREMENT=67 DEFAULT CHARSET=utf8;
+) ENGINE=MyISAM AUTO_INCREMENT=76 DEFAULT CHARSET=utf8;
 
 -- ----------------------------
 -- Records of dsc_seckill_goods
@@ -17005,6 +17005,15 @@ INSERT INTO `dsc_seckill_goods` VALUES ('61', '1', '7', '620', '0.00', '0', '0')
 INSERT INTO `dsc_seckill_goods` VALUES ('62', '1', '7', '622', '0.00', '0', '0');
 INSERT INTO `dsc_seckill_goods` VALUES ('63', '1', '7', '624', '0.00', '0', '0');
 INSERT INTO `dsc_seckill_goods` VALUES ('66', '1', '7', '616', '0.00', '0', '0');
+INSERT INTO `dsc_seckill_goods` VALUES ('67', '2', '6', '615', '0.00', '0', '0');
+INSERT INTO `dsc_seckill_goods` VALUES ('68', '2', '6', '616', '0.00', '0', '0');
+INSERT INTO `dsc_seckill_goods` VALUES ('69', '2', '6', '617', '0.00', '0', '0');
+INSERT INTO `dsc_seckill_goods` VALUES ('70', '2', '6', '618', '0.00', '0', '0');
+INSERT INTO `dsc_seckill_goods` VALUES ('71', '2', '6', '619', '0.00', '0', '0');
+INSERT INTO `dsc_seckill_goods` VALUES ('72', '2', '6', '620', '0.00', '0', '0');
+INSERT INTO `dsc_seckill_goods` VALUES ('73', '2', '6', '621', '0.00', '0', '0');
+INSERT INTO `dsc_seckill_goods` VALUES ('74', '2', '6', '622', '0.00', '0', '0');
+INSERT INTO `dsc_seckill_goods` VALUES ('75', '2', '6', '624', '0.00', '0', '0');
 
 -- ----------------------------
 -- Table structure for `dsc_seckill_goods_remind`
